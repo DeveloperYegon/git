@@ -4,5 +4,6 @@
 int main()
 {
     printf("Hello world");
+    printf("My name is Gideon Kipkorir Yegon");
     return 0;
 }
